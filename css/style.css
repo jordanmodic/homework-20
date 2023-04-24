@@ -5,3 +5,9 @@
 body {
     background-image: linear-gradient(270deg, #FFFFFF 0%, #B3BBFF 0%, #DEF3FF 99.99%, #CCECFF 100%);
 }
+.navbar {
+    width: 80vw;
+}
+.nav-item {
+    text-decoration: none;
+}
